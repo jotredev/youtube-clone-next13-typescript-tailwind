@@ -1,10 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
+## Clone de YouTube con next.js v13 + TypeScript + Tailwind 
 
 ```bash
+npm install
+# and
 npm run dev
 # or
 yarn dev
@@ -12,23 +10,9 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![740shots_so](https://github.com/jotredev/youtube-clone-next13-typescript-tailwind/assets/50961956/b16fcbbf-6520-4bd1-8c8e-c36075b88ddc)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![869shots_so](https://github.com/jotredev/youtube-clone-next13-typescript-tailwind/assets/50961956/0b6c13e5-97f1-4da3-89c3-779e69c69f52)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![31shots_so](https://github.com/jotredev/youtube-clone-next13-typescript-tailwind/assets/50961956/a1943451-033d-46b8-bbaa-fa68280370dc)
